@@ -11,8 +11,9 @@ html {
 }
 
 h1 {
+  padding-top: 2rem;
 	background-color: rgba(0,0,0,0.5);
-	font-size: 3rem;
+	font-size: 6rem;
 	color: #e2dbdb;
 }
 
