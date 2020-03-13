@@ -1,6 +1,5 @@
 body,
 html {
-  width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 
@@ -18,7 +17,7 @@ h1 {
 }
 
 h2 {
-	background-color: rgba(180,200,255,0.5);
+	background-color: rgba(0,204,255,.5);
 	color: #220481;
 }
 
@@ -34,7 +33,7 @@ hr {
 }
 
 .buffer {
-	height: 5rem;
+	height: 15rem;
 }
 
 .btn {
